@@ -1,6 +1,6 @@
 # Hand Tracking App 👋
 
-Welcome to the Hand Tracking App repository! This project was created for my A-Level Computer Science NEA project. The repository contains the code for the project and the full documentaion for the NEA is [here](https://docs.google.com/document/d/1P9jPnpEdcUzsDkfuwQIvZ10Mb2GPFB9Bnu0vn5v7uFw/edit?usp=sharing).
+Welcome to the Hand Tracking App repository! This project was created for my A-Level Computer Science NEA project it offers a simple yet effective solution for hand tracking using computer vision techniques. The repository contains the code for the project and the full documentaion for the NEA will be posted soon.
 
 This project aims to provide a simple yet powerful solution for hand tracking as a way of making the use of a mouse obselete. Alongside making it usable for all people regardless of their technical skill.
 
